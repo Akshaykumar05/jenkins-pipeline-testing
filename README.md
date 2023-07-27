@@ -1,3 +1,3 @@
 # jenkins-pipeline-testing
-* testing
+* Connecting Jenkins with GitHub
   
